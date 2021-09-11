@@ -164,7 +164,6 @@ module top;
    // Asserts
    // *****************************************************************************
 
-
 	ACK_RESET: assert property (ack_reset)
 		else `uvm_error("ASRT ack_reset", $sformatf("failed at %0d", $time))
 
@@ -194,9 +193,5 @@ module top;
 	
 	CONSISTENCY: assert property (consistency)
 		else `uvm_error("ASRT consistency", $sformatf("failed at %0d", $time))
-
-
-	
-
 
 endmodule
