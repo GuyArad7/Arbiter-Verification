@@ -71,7 +71,6 @@ class scoreboard extends uvm_scoreboard;
      	task run();
 		forever begin
 			get_response_transaction();
-
 			round_robin();
 
 			//First compare
