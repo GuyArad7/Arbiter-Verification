@@ -6,5 +6,5 @@ The code was written in SystemVerilog and UVM.
 
 Notes:
 * The arbiter is described in the file "Arbiter Description.pdf".
-* The verification program is described in the file "Arbiter Verification Program.pdf".
+* The verification plan is described in the file "Arbiter Verification Plan.pdf".
 * The arbiter DUT isn't included, because it wasn't written by me.
