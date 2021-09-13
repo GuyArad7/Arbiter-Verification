@@ -1,6 +1,6 @@
 This is my final project in the course Verification Engineering at Cadence & SQLabs.
 
-The project is a verification program for the arbiter chip.
+The project is a verification environment for the arbiter chip.
 
 The code was written in SystemVerilog and UVM.
 
