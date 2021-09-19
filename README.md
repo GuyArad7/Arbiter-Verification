@@ -1,4 +1,4 @@
-This is my final project in the course Verification Engineering at Cadence & SQLabs.
+This is my final project in the course Verification Engineering at Cadence & SQLink.
 
 The project is a verification environment for the arbiter chip.
 
