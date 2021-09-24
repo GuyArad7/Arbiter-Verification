@@ -1,6 +1,6 @@
 This is my final project in the course Verification Engineering at Cadence & SQLink.
 
-The project is a verification environment for the arbiter chip.
+The project is a verification environment for a round-robin arbiter.
 
 The code was written in SystemVerilog and UVM.
 
