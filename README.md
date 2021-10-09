@@ -4,7 +4,8 @@ The project is a verification environment for a round-robin arbiter.
 
 The code was written in SystemVerilog and UVM.
 
-Notes:
-* The arbiter is described in the file "Arbiter Description.pdf".
-* The verification plan is described in the file "Arbiter Verification Plan.pdf".
-* The arbiter DUT isn't included, because it wasn't written by me.
+The arbiter DUT isn't included, because it wasn't written by me.
+
+Important Files:
+* [Arbiter Description.pdf](Arbiter%20Description.pdf)
+* [Arbiter Verification Plan.pdf](Arbiter%20Verification%20Plan.pdf)
